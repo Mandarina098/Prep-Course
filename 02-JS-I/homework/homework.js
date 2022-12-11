@@ -33,12 +33,11 @@ function devolverString(str) { return str
 }
 
 
-function suma(x, y) {
+function sumar(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  var sumardosnumeros ="x" + 'y'
-  return
+  sumar = x + y
   
 }
 
